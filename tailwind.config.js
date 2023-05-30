@@ -3,7 +3,7 @@
 module.exports = {
 
 
-    content: ["/node_modules/preline/dist/*.js", "./*.{html,js}"],
+    content: ["/node_modules/preline/dist/*.js", "./public/*.{html,js}"],
     theme: {
         extend: {},
     },
